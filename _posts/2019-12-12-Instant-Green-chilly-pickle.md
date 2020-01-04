@@ -28,10 +28,12 @@ description: "Easy to make, quick green chilly pickle"
 3. Cut chillies into bite sized pieces.
 4. In a kadhai, dry roast the saunf, methi dana, jeera, sarson seeds to remove moisture. Let it cool down naturally.
 5. Grind the roasted masalas.
-6. In a bowl, add vinegar, mustard oil and all the dry masalas with salt. Mix well.
+6. In a glass bowl, add vinegar, mustard oil and all the dry masalas with salt. Mix well.
 7. Add the chillies and mix well.
 
 
 ## Note
 
-This can be stored in the refrigerator for upto 6 months.
+- This can be stored in the refrigerator for upto 6 months.
+- Store in an airtight glass jar
+- Don't use wet or dirty spoon to take out pickle, it may lead to spoilage.
